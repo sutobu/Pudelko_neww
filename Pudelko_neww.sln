@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PudelkoConsoleApp", "PudelkoConsoleApp\PudelkoConsoleApp.csproj", "{0CDA1060-91B5-445F-AE7D-5E9AC17966CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PudelkoConsoleApp", "PudelkoConsoleApp\PudelkoConsoleApp.csproj", "{0CDA1060-91B5-445F-AE7D-5E9AC17966CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PudelkoLib", "PudelkoLib\PudelkoLib.csproj", "{D41E544A-5952-46C3-B916-90557E43900E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PudelkoLib", "PudelkoLib\PudelkoLib.csproj", "{D41E544A-5952-46C3-B916-90557E43900E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PudelkoTests", "PudelkoTests\PudelkoTests.csproj", "{7DFCE7FD-C8D8-44A4-8D9E-6F0272FDED3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PudelkoTests", "PudelkoTests\PudelkoTests.csproj", "{7DFCE7FD-C8D8-44A4-8D9E-6F0272FDED3F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
